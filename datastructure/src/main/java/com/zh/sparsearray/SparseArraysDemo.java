@@ -1,4 +1,4 @@
-package com.zh.sparse;
+package com.zh.sparsearray;
 
 /**
  * 模拟五子棋盘 11*11大小
